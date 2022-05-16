@@ -78,7 +78,7 @@ const toDos = createSlice({
 
 // const store = createStore(reducer);
 
-export const { add, remove } = toDos.actions; // 
+export const { add, remove } = toDos.actions;
 
 // export const actionCreators = {
 //   addToDo,
